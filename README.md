@@ -38,7 +38,9 @@ strings.splice(2, 0, 'foo') //time complexity 0(n) loop through every item and r
 ```
 
 #### Memory address
+- Memory addresses act just like the indexes of a normal array. The computer can access any address in memory at any time (hence the name "random access memory"). It can also group bytes together as it needs to to form larger variables, arrays, and structures.
 
-#### Memory module
+#### Memory modules
+- Memory modules are small circuit board with multiple RAM memory chips arranged together with a card edge connection that can connect to the memory slot on a computer motherboard. 
 
 [Technical Interview Mind Map](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link)
